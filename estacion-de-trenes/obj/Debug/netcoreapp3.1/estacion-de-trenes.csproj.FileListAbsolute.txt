@@ -1,0 +1,11 @@
+D:\escuela\progra\estacion-de-trenes\bin\Debug\netcoreapp3.1\estacion-de-trenes.exe
+D:\escuela\progra\estacion-de-trenes\bin\Debug\netcoreapp3.1\estacion-de-trenes.deps.json
+D:\escuela\progra\estacion-de-trenes\bin\Debug\netcoreapp3.1\estacion-de-trenes.runtimeconfig.json
+D:\escuela\progra\estacion-de-trenes\bin\Debug\netcoreapp3.1\estacion-de-trenes.runtimeconfig.dev.json
+D:\escuela\progra\estacion-de-trenes\bin\Debug\netcoreapp3.1\estacion-de-trenes.dll
+D:\escuela\progra\estacion-de-trenes\bin\Debug\netcoreapp3.1\estacion-de-trenes.pdb
+D:\escuela\progra\estacion-de-trenes\obj\Debug\netcoreapp3.1\estacion-de-trenes.csprojAssemblyReference.cache
+D:\escuela\progra\estacion-de-trenes\obj\Debug\netcoreapp3.1\estacion-de-trenes.AssemblyInfoInputs.cache
+D:\escuela\progra\estacion-de-trenes\obj\Debug\netcoreapp3.1\estacion-de-trenes.AssemblyInfo.cs
+D:\escuela\progra\estacion-de-trenes\obj\Debug\netcoreapp3.1\estacion-de-trenes.dll
+D:\escuela\progra\estacion-de-trenes\obj\Debug\netcoreapp3.1\estacion-de-trenes.pdb
